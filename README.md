@@ -3,6 +3,8 @@
 A highly immersive, premium single page application (SPA) for the **InAmigos Foundation** built using **React 19**, **Vite**, and **React Router**. This application features stellar interactive canvas animations, count-up statistics, a 3D cylindrical gallery with touch gestures, and a live searchable volunteer roster.
 
 ## 🚀 Live Demo & Deployment
+- **Live Demo**: [in-amigos-foundation-react.vercel.app](https://in-amigos-foundation-react.vercel.app/)
+
 This application is fully optimized for **Vercel** deployment. It includes a `vercel.json` file configuring SPA routing rewrites to ensure clean URLs and page refreshes work flawlessly across all routes (`/`, `/blog`, `/contact`, `/volunteer`).
 
 ## ✨ Features & Architecture
